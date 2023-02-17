@@ -199,7 +199,7 @@ pub enum Food {
     #[name_localized("es-ES", "Pizza")]
     Pizza,
     #[name_localized("de", "Müsli")]
-    #[name_localized("es-ES", "Muesli")]
+    #[name_localized("es-ES", "Cereales")]
     Cereals,
 }
 ```
